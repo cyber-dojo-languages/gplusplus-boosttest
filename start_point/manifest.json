@@ -1,5 +1,7 @@
 
 {
+  "display_name": "C++ (g++), Boost.Test",
+
   "visible_filenames": [
     "hiker.tests.cpp",
     "hiker.cpp",
@@ -8,9 +10,9 @@
     "cyber-dojo.sh"
   ],
 
+  "image_name": "cyberdojofoundation/gpp_boosttest",
+
   "filename_extension" : ".cpp",
 
-  "display_name": "C++ (g++), Boost.Test",
-
-  "image_name": "cyberdojofoundation/gpp_boosttest"
+  "runner_choice": "stateless"
 }
