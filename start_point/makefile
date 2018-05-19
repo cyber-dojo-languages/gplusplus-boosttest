@@ -1,4 +1,9 @@
-CXXFLAGS += -I. -std=c++17 -Wall -Wextra -Werror -DBOOST_TEST_DYN_LINK
+CXXFLAGS += -I.
+CXXFLAGS += -std=c++17
+CXXFLAGS += -Wall -Wextra -Werror
+CXXFLAGS += -DBOOST_TEST_DYN_LINK
+CXXFLAGS += -fprofile-arcs -ftest-coverage
+
 BOOST_LIB = -lboost_unit_test_framework
 
 HPP_FILES = $(wildcard *.hpp)
