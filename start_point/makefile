@@ -3,7 +3,6 @@ CXXFLAGS += -std=c++17
 CXXFLAGS += -Wall -Wextra -Werror
 CXXFLAGS += -DBOOST_TEST_DYN_LINK
 CXXFLAGS += -fprofile-arcs -ftest-coverage
-CXXFLAGS += -D_GLIBCXX_USE_CXX11_ABI=0
 
 BOOST_LIB = -lboost_unit_test_framework
 
