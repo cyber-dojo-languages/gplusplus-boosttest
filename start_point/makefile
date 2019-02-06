@@ -1,6 +1,6 @@
 CXXFLAGS += -I.
 CXXFLAGS += -std=c++17
-CXXFLAGS += -Wall -Wextra -Werror
+CXXFLAGS += -Wall -Wextra
 CXXFLAGS += -DBOOST_TEST_DYN_LINK
 CXXFLAGS += -fprofile-arcs -ftest-coverage
 
