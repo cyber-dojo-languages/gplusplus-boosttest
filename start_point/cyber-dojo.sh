@@ -1,3 +1,6 @@
 set -e
+
+[ -e report/coverage.txt ] && rm report/coverage.txt
+mkdir -p report
 make
-gcovr -r .
+gcovr --root . > report/coverage.txt
