@@ -1,6 +1,6 @@
-[![CircleCI](https://circleci.com/gh/cyber-dojo-languages/gplusplus-boosttest.svg?style=svg)](https://circleci.com/gh/cyber-dojo-languages/gplusplus-boosttest)
+[![Github Action (master)](https://github.com/cyber-dojo-languages/gplusplus-boosttest/actions/workflows/main.yml/badge.svg)](https://github.com/cyber-dojo-languages/gplusplus-boosttest/actions)
 
-## display_name="C++ (g++), Boost.Test"
-## image_name="cyberdojofoundation/gpp_boosttest"
+## display_name="C++ (g++ 15.1.0), Boost.Test"
+## image_name="ghcr.io/cyber-dojo-languages/gpp_boosttest"
 
 ![cyber-dojo.org home page](https://github.com/cyber-dojo/cyber-dojo/blob/master/shared/home_page_snapshot.png)
