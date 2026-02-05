@@ -1,6 +1,6 @@
 [![Github Action (master)](https://github.com/cyber-dojo-languages/gplusplus-boosttest/actions/workflows/main.yml/badge.svg)](https://github.com/cyber-dojo-languages/gplusplus-boosttest/actions)
 
-## display_name="C++ (g++ 15.1.0), Boost.Test (1.74.0.3)"
+## display_name="C++ (g++ 15.3.0), Boost.Test (1.83.0.2)"
 ## image_name="ghcr.io/cyber-dojo-languages/gpp_boosttest"
 
 ![cyber-dojo.org home page](https://github.com/cyber-dojo/cyber-dojo/blob/master/shared/home_page_snapshot.png)

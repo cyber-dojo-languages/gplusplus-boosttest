@@ -1,4 +1,4 @@
-FROM  ghcr.io/cyber-dojo-languages/gplusplus:8be9183
+FROM  ghcr.io/cyber-dojo-languages/gplusplus:4a36012
 LABEL maintainer=jon@jaggersoft.com
 
 COPY red_amber_green.rb /usr/local/bin
